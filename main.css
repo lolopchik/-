@@ -1,0 +1,23 @@
+.socicon { 
+    width: 70px; 
+    height: 70px; 
+    border-radius: 100%; 
+    display: inline-block; 
+    margin: 0 15px; 
+    cursor: pointer; 
+    transition: background-color 0.5s; 
+}
+  .vk:hover { 
+    background-color: #0077ff;
+}
+  .tg:hover { 
+    background-color: #0088cc; 
+} 
+.ds:hover {
+    background-color: #310794;
+}
+footer {
+    text-align: center;
+    background-color: black;
+    color: wheat;
+  }
